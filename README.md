@@ -1,2 +1,2 @@
-# multimodal-ai-assistive-learning-companion
-An AI-powered multimodal assistive learning platform that leverages Transformer architectures, NLP, computer vision, and intelligent personalization to make education more accessible and adaptive for diverse learners.
+# Multimodal AI Assistive Learning Companion
+B.Tech AI & ML final-year project. **Start with `CLAUDE.md`.** Status: Batch 0 (architecture & docs) complete; implementation begins at Batch 1 (see `PROGRESS.md`).
